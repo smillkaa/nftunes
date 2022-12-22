@@ -13,7 +13,7 @@
   },
   "scripts": {
     "seed": "node seeds/index.js",
-    "build": "yarn",
+    "build": "nftunes",
     "start": "node seeds/index.js node server.js"
   }
 }
